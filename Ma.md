@@ -19,7 +19,7 @@ Finding a niche business and invest in this business isn't a niche idea if you a
 
 Let's see if we can detect similar cities have the same trend. For this reason, I checked for several features, listed below the names of cities, and find matched 2 cities: Ames, IO, and Champaign, IL.
 
-1.  **Ames, Iowa**
+  **Ames, Iowa**
 
 -   Population: 66,191
 -   Percent with a bachelor's degree: 61.8%
@@ -28,7 +28,7 @@ Let's see if we can detect similar cities have the same trend. For this reason, 
 -   Foreign Born Persons 12.3%
 -   Mean travel time to work 16.1%
 
-1.  **Champaign, Illinois**
+  **Champaign, Illinois**
 
 -   Population: 86,637
 -   Percent with a bachelor's degree: 43.9%
